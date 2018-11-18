@@ -15,5 +15,5 @@ then
 sh password.sh
 else
 echo "wrong username!"
-sh logint.sh
+sh login.sh
 fi
