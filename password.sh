@@ -5,5 +5,5 @@ cd $HOME
 clear
 else
 echo "wrong password!"
-sh logint.sh
+sh login.sh
 fi
